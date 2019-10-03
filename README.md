@@ -1,0 +1,2 @@
+# ParserKripta
+part1 
